@@ -16,6 +16,7 @@ This simple online market showcases the main ideas and technologies used in buil
 - Run `npm start` to start the client server.
 
 Configure your `server/.env` with the respective data.
+Configure your `client/.env` with the respective data.
 
 ## Some Snapshots 📸
 
