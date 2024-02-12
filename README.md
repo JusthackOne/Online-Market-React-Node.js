@@ -12,15 +12,16 @@ This simple online market showcases the main ideas and technologies used in buil
 
 ## Commands and .env Configuration 🔧
 
-- Run npm run dev to start the server.
-- Run npm start to start the client server.
+- Run `npm run dev` to start the server.
+- Run `npm start` to start the client server.
 
-Configure your server/.env with the respective data.
+Configure your `server/.env` with the respective data.
 
 ## Some Snapshots 📸
 
-!Login Page (https://github.com/JusthackOne/Simple-Online-Market/assets/65730026/85498617-334b-4406-ad90-3e6fa40ea033)
-
-!Admin Panel (https://github.com/JusthackOne/Simple-Online-Market/assets/65730026/986107ef-e240-4ec0-a581-7856a14deec8)
-
-!Main Page (https://github.com/JusthackOne/Simple-Online-Market/assets/65730026/f7500dd7-12f5-44c5-947d-149f02970a1d)
+###Main Page
+![screencapture-localhost-3000-login-2024-02-12-18_44_02](https://github.com/JusthackOne/Simple-Online-Market/assets/65730026/d1a31295-281a-4f3f-a116-007f1b790639)
+###Admin Panel
+![screencapture-localhost-3000-admin-2024-02-12-18_43_45](https://github.com/JusthackOne/Simple-Online-Market/assets/65730026/1f448f29-47ff-487b-94d3-54ab98c95843)
+###Login Page
+![screencapture-localhost-3000-2024-02-12-18_43_16](https://github.com/JusthackOne/Simple-Online-Market/assets/65730026/2fe048a5-09e5-4eb7-a31c-7547f7fc134a)
