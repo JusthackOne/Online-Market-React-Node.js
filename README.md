@@ -1,4 +1,4 @@
-# Simple Online Market 🛍️
+# Online Market 🛍️
 
 This simple online market showcases the main ideas and technologies used in building a modern application. It utilizes databases to store information about devices, types, and brands. Express.js is employed to manage and manipulate this information. Furthermore, a React frontend application offers a dynamic platform for interacting with the API, resulting in a comprehensive application complete with a catalog of devices, an admin panel, and authentication capabilities.
 
